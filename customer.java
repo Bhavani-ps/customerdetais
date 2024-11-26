@@ -1,0 +1,6 @@
+class Gaman 
+{
+int k;
+}
+
+
